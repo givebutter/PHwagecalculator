@@ -1,2 +1,2 @@
 # PHwagecalculator
-Calculator for wages and shift differentials in the PH
+Support calculator for wages and shift differentials in the PH
